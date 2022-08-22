@@ -1,18 +1,1 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+document.write('<style type="text/css">.productbox{height:80px;width:90px;text-align:center;float:left; margin-left:3px;margin-bottom:10px} .productbox img{border:none;width:90px;height:72px}/*by sendo@imvu*/</style><div id="xtended_dev_panel"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><table width="100%" border="0" cellspacing="6" cellpadding="0" id="xtended_dev_panel_header"><tr><td class=\'paneltitle\'><span class=\'paneltitletext\'>My New Products</span></td><td class="panelmenu"><a href="https://www.imvu.com/shop/web_search.php?manufacturers_id=346553035">View all</a></td></tr></table></td></tr><tr><td><div id="xtended_dev_panel_body"><br style=\'line-height: 3px\'><div class="productbox"> <a href="https://www.imvu.com/shop/product.php?products_id=60122890" target="_blank"><img src="https://userimages03-akm.imvu.com/productdata/images_3d4892f2a01edb9c5e3110b99be0f3dc.gif" alt=\'\' title="DRV: Skimask v2 - F"></a></div><div class="productbox"> <a href="https://www.imvu.com/shop/product.php?products_id=60122828" target="_blank"><img src="https://userimages03-akm.imvu.com/productdata/images_3d4892f2a01edb9c5e3110b99be0f3dc.gif" alt=\'\' title="DRV: Skimask v2 - M"></a></div><div class="productbox"> <a href="https://www.imvu.com/shop/product.php?products_id=60122017" target="_blank"><img src="https://userimages03-akm.imvu.com/productdata/images_73379144555f1db5b3c7d01c3b3f49ad.gif" alt=\'\' title="DRV: Skimask v1 - F"></a></div><div class="productbox"> <a href="https://www.imvu.com/shop/product.php?products_id=60121939" target="_blank"><img src="https://userimages03-akm.imvu.com/productdata/images_73379144555f1db5b3c7d01c3b3f49ad.gif" alt=\'\' title="DRV: Skimask v1 - M"></a></div><div class="productbox"> <a href="https://www.imvu.com/shop/product.php?products_id=60083902" target="_blank"><img src="https://userimages04-akm.imvu.com/productdata/images_759fab32b8c52cedf48e7ad02ae7557e.gif" alt=\'\' title="DRV: Mask Maniqui - M"></a></div><div class="productbox"> <a href="https://www.imvu.com/shop/product.php?products_id=60083822" target="_blank"><img src="https://userimages04-akm.imvu.com/productdata/images_759fab32b8c52cedf48e7ad02ae7557e.gif" alt=\'\' title="DRV: Cloth. Maniqui - M"></a></div></div></td></tr></table></div>');
